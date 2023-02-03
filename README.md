@@ -1,8 +1,7 @@
 # HackInfinity23
 HackInfinity'23 organized by DCEI
 
-### Team Details:
-> DeepMinds
+### Team Details: DeepMinds
 * Dhruv Shah
 * Pranav Patel
 * Pathik Patel
