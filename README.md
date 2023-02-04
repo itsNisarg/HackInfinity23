@@ -18,7 +18,7 @@ is build on deep stacked RNN's(GRU) on plenty of previous BTC/USDT price data of
 1. Clone this repository: `git clone https://github.com/itsNisarg/HackInfinity23.git`
 2. Change into the directory: `cd HackInfinity`
 3. Install the requirements: `pip install -r requirements.txt`
-4. connect to your local postgres database and run livedatastreamer.py to set a live streaming data feed into the database
+4. Connect to your local postgres database by changing password in script where it is necessary and run livedatastreamer.py to set a live streaming data feed into the database 
 5. Run the app: `streamlit run app.py`
 
 ## Usage
