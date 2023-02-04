@@ -25,6 +25,6 @@ is build on deep stacked RNN's(GRU) on plenty of previous BTC/USDT price data of
 The app will open in your default web browser at `http://localhost:8501/` and you can interact with app.
 
 ### 1. Home page
-![Example Image](Screenshot 2023-02-05 at 03.16.45.png)
+![Example Image](Home.png)
 
 
