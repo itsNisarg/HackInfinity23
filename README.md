@@ -25,6 +25,14 @@ is build on deep stacked RNN's(GRU) on plenty of previous BTC/USDT price data of
 The app will open in your default web browser at `http://localhost:8501/` and you can interact with app.
 
 ### 1. Home page
-![Example Image](Home.png)
+![Home page](Home.png)
 
+### 2. 5 min prediciton 
+![5 min prediction](five.png)
+
+### 3. 10 min prediciton 
+![10 min prediciton ](ten.png)
+
+### 4. 20 min prediciton 
+![20 min prediciton ](twenty.png)
 
