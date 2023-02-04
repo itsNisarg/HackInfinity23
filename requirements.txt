@@ -1,0 +1,7 @@
+requests
+sqlalchemy
+pyscopg2
+tensorflow
+numpy
+pandas
+streamlit
